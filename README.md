@@ -1,7 +1,13 @@
 
-# Login and Registration Form with MongoDB
+# Task Manager Application with MongoDB
 
-I have created a Login and Registration Form with NodeJS, ExpressJS and MongoDB. This is a Basic Version of the Login and Signup Form which I have created using a bit of help from a few Youtube videos.
+I have created a Task Manager Application with NodeJS, ExpressJS and MongoDB. This is a Basic Version of the Task Manager App with a few features implemented into it!
+
+# Features:
+-Task Creation Feature <br>
+-Task Description Feature <br>
+-Task Deadline Feature <br>
+-Task Deletion Feature <br>
 
 
 ## Installation
